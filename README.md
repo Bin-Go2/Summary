@@ -1,2 +1,2 @@
-# Notebooks
-This repo records some notes about useful tools 
+# Summary
+This repo records some study notes about data science
