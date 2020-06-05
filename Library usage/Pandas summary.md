@@ -115,6 +115,8 @@ df.loc[0, 'game'] # get the data from df where it located in the first row and i
 3.conditional selection
 df.loc[df.game == 'LOL']
 
+
+。。。。
 ```
 
 
